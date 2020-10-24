@@ -1,0 +1,12 @@
+author: Mohammad Rahmani
+core-version: >=5.1.22
+created: 20201024164700334
+dependents: 
+description: Favorites
+list: readme history license
+modified: 20201024164700334
+plugin-type: plugin
+source: https://github.com/kookma/TW-Favorites
+title: $:/plugins/kookma/favorites
+type: application/json
+version: 4.4.0
