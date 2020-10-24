@@ -2,6 +2,8 @@
     "description": "Basic client-server edition",
     "plugins": [
         "tiddlywiki/codemirror",
+        "tiddlywiki/codemirror-mode-css",
+        "tiddlywiki/codemirror-mode-javascript",
         "tiddlywiki/tiddlyweb",
         "tiddlywiki/filesystem",
         "tiddlywiki/highlight"
@@ -9,6 +11,9 @@
     "themes": [
         "tiddlywiki/vanilla",
         "tiddlywiki/snowwhite"
+    ],
+    "languages": [
+        "zh-Hans"
     ],
     "build": {
         "index": [
