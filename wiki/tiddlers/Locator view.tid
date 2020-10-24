@@ -1,0 +1,13 @@
+caption: 定位
+created: 20190109213701491
+list-before: $:/core/ui/SideBar/Tools
+modified: 20201024183642923
+tags: $:/tags/SideBar
+title: Locator view
+type: text/vnd.tiddlywiki
+
+<$reveal type="match" default="" text={{{ [prefix[$:/state/popup/search-dropdown]] }}}>
+  <<locator-view baseTitle:"TableOfContents">>
+</$reveal>
+
+> The content of the Locator sidebar is hidden in this demo when standard search is in focus to increase responsiveness. See [[Tips tab|$:/plugins/bimlas/locator/README/TIPS]] of the plugin for details.
